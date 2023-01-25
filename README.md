@@ -3,3 +3,5 @@
 
 <h1>🏆 Trophy Stats:</h1>
 <img style="display: inline; vertical-align: top; clear: both;" src="https://github-profile-trophy.vercel.app/?username=brennan-jenkins" />
+
+<style>img{margin-right:2px}</style>
