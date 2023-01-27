@@ -8,7 +8,7 @@
 <h1>📊 GitHub Stats:</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=brennan-jenkins&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brennan-jenkins&theme=blueberry&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkiernan120&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennan-jenkins&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <h1>🏆 Trophy Stats:</h1>
 <img style="display: inline-block; vertical-align: top; margin-right:2px;" src="https://github-profile-trophy.vercel.app/?username=brennan-jenkins" />
